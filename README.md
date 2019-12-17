@@ -1,4 +1,4 @@
-## Videowiki Test Task:
+## Blog App
 
 In this project i made some endpoints for login user and create posts.
 
